@@ -96,6 +96,7 @@ npm run build
 ```
 apt install nginx -y
 ```
+```
 cp -r build/* /var/www/html
 ```
 
